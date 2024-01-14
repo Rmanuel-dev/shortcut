@@ -1,0 +1,13 @@
+/**************************************************************************************
+ *                                   CHROME WINDOWS                                   *
+ **************************************************************************************/
+¿Cómo crear una PESTAÑA nueva en Chrome?: Presiona Ctrl + t.
+¿Cómo crear una VENTANA nueva en Chrome?: Presiona Ctrl + n.
+¿Cómo crear una ventana INCÓGNITO nueva en Chrome?: Presiona Ctrl + Mayúsculas + n.
+/**************************************************************************************
+ *                                    CHROME TABS                                     *
+ **************************************************************************************/
+¿Cómo CERRAR una pestaña en Chrome?: Presiona Ctrl + w.
+¿Cómo a ABRIR una ventana o pestaña cerrada?: Presiona Ctrl + Shift + t.
+¿Cómo ir de una pestaña a otra ( FOWARD ) con el teclado?: Presiona Ctrl + Tab.
+¿Cómo ir de una pestaña a otra ( BACK ) con el teclado?: Presiona Ctrl + Shift + Tab.
